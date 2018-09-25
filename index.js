@@ -39,7 +39,7 @@ module.exports = class BotUber {
         'end_longitude': this.endLongitude
       },
       'headers': {
-        'Authorization': 'Token ' + 'aBxZ-6xJF5xCegAjjXXSMNCy_fI0SCKXbPq86PkZ',
+        'Authorization': 'Token ' + 'your-token',//change
         'Accept-Language': 'en_US',
         'Content-Type': 'application/json'
       }
